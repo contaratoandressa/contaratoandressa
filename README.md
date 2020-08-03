@@ -12,16 +12,16 @@
 - 💼 I work as a Data Scientist!
 - 💻 **Languages:** R, Python, SQL, JavaScript #ToInfinityAndBeyond
 - 🎨 **Visualization:** GitHub, Google Data Studio, Power BI, Infogram, Tabeau, R Shiny, RMarkdown, Python Markdown, ArcGis, QGis
-- 📚 **Studies:** I have a degree in Statistics from UFF, a postgraduate degree in Finance from UFF and an MBA in Data Sciences from USP and a specialization in Data Sciences from DSA. 
+- 📚 **Studies:** I have a degree in Statistics from UFF, a postgraduate degree in Finance from UFF and an MBA in Data Science from USP and a specialization in Data Science from DSA. 
 
 Main Projects:
 
-- 💻 Personal website (work together with https://github.com/pirpedro) https://www.psrandom.com/.
+- 💻 Personal website (work together with [pirpedro](https://github.com/pirpedro)). Link: [psrandom](https://www.psrandom.com/).
 - 💻 Time Series analysis and application of traditional models such as ARIMA and GARCH using the GHskew distribution in the waste and comparison with Machine Learning models such as ANN and SVR.
 - 💻 Image analysis using the Convolutional Neural Network to detect normal patients with pneumonia and with covid-19.
 
 About Me:
 
-I am motivated by new technologies, trends, tools and practice, aimed at improving development, increasing productivity, innovation in solutions. For those who want to know more about my lines of work / studies. In addition, I created a company with two more partners turned to consultants in Statistics, Qualitative Analysis and courses in the area of technology. Link below: analiticadatascience.com.br 
+I am motivated by new technologies, trends, tools and practice, aimed at improving development, increasing productivity, innovation in solutions. For those who want to know more about my lines of work / studies. In addition, I created a company with two more partners turned to consultants in Statistics, Qualitative Analysis and courses in the area of technology. Link: [ADS](analiticadatascience.com.br).  
 
 > :octocat:
