@@ -22,6 +22,6 @@ Main Projects:
 
 About Me:
 
-I am motivated by new technologies, trends, tools and practice, aimed at improving development, increasing productivity, innovation in solutions. For those who want to know more about my lines of work / studies. In addition, I created a company with two more partners turned to consultants in Statistics, Qualitative Analysis and courses in the area of technology. Link: [ADS](analiticadatascience.com.br).  
+I am motivated by new technologies, trends, tools and practice, aimed at improving development, increasing productivity, innovation in solutions. For those who want to know more about my lines of work / studies. In addition, I created a company with two more partners turned to consultants in Statistics, Qualitative Analysis and courses in the area of technology. Link: [Analítica Data Science](analiticadatascience.com.br).  
 
 > :octocat:
