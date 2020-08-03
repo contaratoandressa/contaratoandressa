@@ -4,6 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-contarato/)](https://www.linkedin.com/in/andressa-contarato/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andressacontarato@gmail.com)](mailto:andressacontarato@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@contaratoandressa)](https://medium.com/@contaratoandressa)
+[![Website Badge](https://img.shields.io/badge/Personal-Website-blue?style=flat-square&logo=Website&logoColor=white&link=https://www.psrandom.com/)](https://www.psrandom.com/)
+[![Lattes Badge](https://img.shields.io/badge/%20-Lattes-yellow?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/9004653414242192)](http://lattes.cnpq.br/9004653414242192)
+[![Academia Badge](https://img.shields.io/badge/%20-Academia.edu-red?style=flat-square&logo=Academia&logoColor=white&link=https://uff.academia.edu/AndressaContarato)](https://uff.academia.edu/AndressaContarato)
 
 <h1 align="center">
   <img src ="https://media.giphy.com/media/9ADoZQgs0tyww/giphy.gif">
