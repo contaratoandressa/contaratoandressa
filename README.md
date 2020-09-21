@@ -13,7 +13,7 @@
 </h1>
 
 - 💼 I work as a Data Scientist!
-- 💻 **Languages:** R, Python, SQL, JavaScript #ToInfinityAndBeyond
+- 💻 **Languages:** R, Python, SQL, Julia, JavaScript #ToInfinityAndBeyond
 - 🎨 **Visualization:** GitHub, Google Data Studio, Power BI, Infogram, Tabeau, R Shiny, RMarkdown, Python Markdown, ArcGis, QGis
 - 📚 **Studies:** I have a degree in Statistics from UFF, a postgraduate degree in Finance from [UFF](http://www.uff.br/) and an MBA in Data Science from [USP](https://www5.usp.br/) and a specialization in Data Science from Data Science Academy (educational institution, focused on programming, very renowned in Brazil) [DSA](https://www.datascienceacademy.com.br/start). 
 
