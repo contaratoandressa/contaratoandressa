@@ -19,7 +19,7 @@
 
 Main Projects:
 
-- 💻 Personal website (work together with [pirpedro](https://github.com/pirpedro)). Link: [psrandom](https://www.psrandom.com/).
+- 💻 Personal website (work together with [pirpedro](https://github.com/pirpedro)). Link: [psrandom](https://www.psrandom.com/) and [medium](https://contaratoandressa.medium.com/).
 - 💻 Time Series analysis and application of traditional models such as ARIMA and GARCH using the GHskew distribution in the waste and comparison with Machine Learning models such as ANN and SVR.
 - 💻 Image analysis using the Convolutional Neural Network to detect normal patients with pneumonia and with covid-19.
 
